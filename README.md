@@ -9,7 +9,7 @@ The contract divides code into four areas:
 - **AREA 1**: Inside `SomeStruct.structFunc()`, `init()`
 - **AREA 2**: Inside `SomeResource.resourceFunc()`
 - **AREA 3**: Inside `questsAreFun()`
-- **AREA 4**: Not defined
+- **AREA 4**: script part
 
 **Variable Access**
 
